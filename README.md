@@ -1,7 +1,7 @@
 # Character-Animation
 a python program used for creating character animation. 
 
-USAGE:
+USAGE:  
 input the following shell `python CA.py <filename> <resolution>` and the animation will be created  
 file `preview.html` is the preview.
 
