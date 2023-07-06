@@ -2,7 +2,7 @@
 A python program used for creating character animation. 
 
 USAGE:  
-Execute `python CA.py <filename> <resolution>` and the animation will be created.  
+`python CA.py <filename> <resolution>` 
 
 `preview.html` is the output result.
 
